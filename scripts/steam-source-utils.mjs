@@ -62,6 +62,19 @@ function normalizeAppUrl(url, appId) {
   }
 }
 
+function normalizeImageUrl(url) {
+  const decoded = decodeHtml(url).trim();
+  if (!decoded) return '';
+  try {
+    const value = new URL(decoded);
+    if (!['http:', 'https:'].includes(value.protocol)) return '';
+    value.protocol = 'https:';
+    return value.toString();
+  } catch {
+    return '';
+  }
+}
+
 function canonicalAppUrl(appId) {
   return `https://store.steampowered.com/app/${appId}/`;
 }
@@ -141,11 +154,14 @@ export function parseSteamSearchPayload(payload, source) {
     if (!title) continue;
 
     const releaseText = stripTags(body.match(/<[^>]*class=["'][^"']*\bsearch_released\b[^"']*["'][^>]*>([\s\S]*?)<\/[^>]+>/i)?.[1] || '');
+    const imageTag = body.match(/<img\b[^>]*>/i)?.[0] || '';
+    const imageUrl = normalizeImageUrl(attributeValue(imageTag, 'src') || attributeValue(imageTag, 'data-src'));
     rows.push({
       appId,
       title,
       url: normalizeAppUrl(href, appId),
       canonicalUrl: canonicalAppUrl(appId),
+      imageUrl,
       releaseText: releaseText || 'Coming soon',
       sourceId: source.id,
       source: source.name,
@@ -173,6 +189,7 @@ function buildSteamItem(row, options = {}) {
     source: row.source,
     sourceUrl: row.sourceUrl,
     canonicalUrl: row.canonicalUrl || canonicalAppUrl(row.appId),
+    ...(row.imageUrl ? { imageUrl: row.imageUrl } : {}),
     subtopic: 'steam',
     subtopicName: 'Steam',
     steamAppId: row.appId,
@@ -228,6 +245,7 @@ export function buildSteamItems(rows, options = {}) {
     const preferred = preferRow(existing, row);
     grouped.set(row.appId, {
       ...preferred,
+      imageUrl: preferred.imageUrl || existing.imageUrl || row.imageUrl,
       rails: [...new Set([...(existing.rails || []), row.rail].filter(Boolean))],
     });
   }
