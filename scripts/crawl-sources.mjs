@@ -229,12 +229,14 @@ for (const dataSet of dataSets) {
     ...(generatedSteamRows.length ? buildSteamItems(generatedSteamRows) : []),
   ];
   if (generatedItems.length) {
+    const generatedIds = new Set(generatedItems.map(item => item.id));
     const generatedSourceNames = new Set(
       sourceChecks
         .filter(check => (check.generatedItems || []).length || (check.generatedSteamRows || []).length)
         .map(check => check.name)
     );
     const preservedItems = dataSet.items.filter(item => {
+      if (generatedIds.has(item.id)) return false;
       if (item.type === 'forecastWindow' || item.isDatePlaceholder) return true;
       return !generatedSourceNames.has(item.source);
     });
