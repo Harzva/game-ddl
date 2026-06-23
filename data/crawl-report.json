@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T13:09:18.917Z",
+  "generatedAt": "2026-06-23T06:32:57.463Z",
   "dataSets": [
     "game-ddl",
     "game-version-ddl",
@@ -27,7 +27,7 @@
       ],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-06-18T13:09:06.632Z"
+      "checkedAt": "2026-06-23T06:32:55.249Z"
     },
     {
       "topicId": "game-ddl",
@@ -39,18 +39,17 @@
       "status": 200,
       "finalUrl": "https://pro.eslgaming.com/tour/cs/cologne/",
       "contentType": "text/html; charset=UTF-8",
-      "title": "IEM Cologne 2026 - ESL Pro Tour",
+      "title": "IEM Cologne 2026 - Congratulations Team Falcons - ESL Pro Tour",
       "matchedMarkers": [
         "ESL",
         "IEM",
         "Cologne",
-        "IEM Cologne Major 2026",
         "CS2",
         "Major"
       ],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-06-18T13:09:08.407Z"
+      "checkedAt": "2026-06-23T06:32:55.723Z"
     },
     {
       "topicId": "game-ddl",
@@ -72,7 +71,7 @@
       ],
       "relatedItemCount": 3,
       "generatedItemCount": 0,
-      "checkedAt": "2026-06-18T13:09:05.580Z"
+      "checkedAt": "2026-06-23T06:32:54.715Z"
     },
     {
       "topicId": "game-ddl",
@@ -80,21 +79,15 @@
       "name": "Esports World Cup",
       "url": "https://esportsworldcup.com/en/news/ewc26-confirms-the-return-of-20-games",
       "adapter": "esports-world-cup",
-      "ok": true,
-      "status": 200,
-      "finalUrl": "https://esportsworldcup.com/en/press-releases/ewc26-confirms-the-return-of-20-games",
-      "contentType": "text/html; charset=utf-8",
-      "title": "Esports World Cup 2026 Confirms the Return of 20 Games",
-      "matchedMarkers": [
-        "Esports World Cup",
-        "2026",
-        "Esports World Cup 2026",
-        "EWC",
-        "Honor of Kings"
-      ],
+      "ok": false,
+      "status": 403,
+      "finalUrl": "https://esportsworldcup.com/en/news/ewc26-confirms-the-return-of-20-games",
+      "contentType": "text/html",
+      "title": "ERROR: The request could not be satisfied",
+      "matchedMarkers": [],
       "relatedItemCount": 3,
       "generatedItemCount": 0,
-      "checkedAt": "2026-06-18T13:09:06.324Z"
+      "checkedAt": "2026-06-23T06:32:54.486Z"
     },
     {
       "topicId": "game-ddl",
@@ -102,22 +95,15 @@
       "name": "Esports World Cup",
       "url": "https://www.esportsworldcup.com/en/news/cs2-locked-in-for-ewc-2026-2027",
       "adapter": "esports-world-cup",
-      "ok": true,
-      "status": 200,
+      "ok": false,
+      "status": 403,
       "finalUrl": "https://www.esportsworldcup.com/en/news/cs2-locked-in-for-ewc-2026-2027",
-      "contentType": "text/html; charset=utf-8",
-      "title": "Counter-Strike 2 Locked In for EWC 26 and 27",
-      "matchedMarkers": [
-        "Esports World Cup",
-        "2026",
-        "Event start",
-        "CS2",
-        "EWC",
-        "Counter-Strike 2"
-      ],
+      "contentType": "text/html",
+      "title": "ERROR: The request could not be satisfied",
+      "matchedMarkers": [],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-06-18T13:09:05.977Z"
+      "checkedAt": "2026-06-23T06:32:54.488Z"
     },
     {
       "topicId": "game-ddl",
@@ -138,7 +124,7 @@
       ],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-06-18T13:09:06.197Z"
+      "checkedAt": "2026-06-23T06:32:55.007Z"
     },
     {
       "topicId": "game-ddl",
@@ -160,7 +146,7 @@
       ],
       "relatedItemCount": 3,
       "generatedItemCount": 0,
-      "checkedAt": "2026-06-18T13:09:08.943Z"
+      "checkedAt": "2026-06-23T06:32:55.992Z"
     },
     {
       "topicId": "game-ddl",
@@ -183,7 +169,7 @@
       ],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-06-18T13:09:09.804Z"
+      "checkedAt": "2026-06-23T06:32:56.531Z"
     },
     {
       "topicId": "game-ddl",
@@ -191,10 +177,15 @@
       "name": "Valve / Dota 2",
       "url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/assets/RFP_TI_2026.pdf",
       "adapter": "valve-dota2",
-      "ok": false,
-      "status": "error",
-      "error": "This operation was aborted",
-      "checkedAt": "2026-06-18T13:09:12.912Z"
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/assets/RFP_TI_2026.pdf",
+      "contentType": "application/pdf",
+      "title": "",
+      "matchedMarkers": [],
+      "relatedItemCount": 2,
+      "generatedItemCount": 0,
+      "checkedAt": "2026-06-23T06:32:55.820Z"
     },
     {
       "topicId": "game-version-ddl",
@@ -212,7 +203,7 @@
       ],
       "relatedItemCount": 3,
       "generatedItemCount": 0,
-      "checkedAt": "2026-06-18T13:09:14.361Z"
+      "checkedAt": "2026-06-23T06:32:56.857Z"
     },
     {
       "topicId": "game-version-ddl",
@@ -230,7 +221,7 @@
       ],
       "relatedItemCount": 0,
       "generatedItemCount": 0,
-      "checkedAt": "2026-06-18T13:09:14.415Z"
+      "checkedAt": "2026-06-23T06:32:56.857Z"
     },
     {
       "topicId": "steamgame-ddl",
@@ -238,10 +229,18 @@
       "name": "Steam Coming Soon",
       "url": "https://store.steampowered.com/search/?filter=comingsoon",
       "adapter": "steam-search",
-      "ok": false,
-      "status": "error",
-      "error": "This operation was aborted",
-      "checkedAt": "2026-06-18T13:09:18.916Z"
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://store.steampowered.com/search/results/?filter=comingsoon&start=0&count=50&dynamic_data=&sort_by=Released_ASC&supportedlang=english&snr=1_7_7_230_7&infinite=1",
+      "contentType": "application/json; charset=utf-8",
+      "title": "",
+      "matchedMarkers": [
+        "Steam",
+        "app"
+      ],
+      "relatedItemCount": 0,
+      "generatedItemCount": 50,
+      "checkedAt": "2026-06-23T06:32:57.081Z"
     },
     {
       "topicId": "steamgame-ddl",
@@ -249,10 +248,18 @@
       "name": "Steam Popular Upcoming",
       "url": "https://store.steampowered.com/search/?filter=popularcomingsoon",
       "adapter": "steam-search",
-      "ok": false,
-      "status": "error",
-      "error": "This operation was aborted",
-      "checkedAt": "2026-06-18T13:09:18.916Z"
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://store.steampowered.com/search/results/?filter=popularcomingsoon&start=0&count=50&dynamic_data=&sort_by=_ASC&supportedlang=english&snr=1_7_7_230_7&infinite=1",
+      "contentType": "application/json; charset=utf-8",
+      "title": "",
+      "matchedMarkers": [
+        "Steam",
+        "app"
+      ],
+      "relatedItemCount": 0,
+      "generatedItemCount": 50,
+      "checkedAt": "2026-06-23T06:32:57.119Z"
     }
   ]
 }
