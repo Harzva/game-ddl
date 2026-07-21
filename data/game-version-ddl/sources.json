@@ -1,6 +1,6 @@
 {
   "topicId": "game-version-ddl",
-  "generatedAt": "2026-07-14T05:14:40.280Z",
+  "generatedAt": "2026-07-21T05:36:13.352Z",
   "sourcePolicy": "official patch schedules first; generated items keep sourceUrl and canonicalUrl",
   "strictLinkCheckReady": false,
   "sourceFamilies": [
@@ -31,7 +31,7 @@
         "game-version-ddl-lol-26-24-2026-12-09",
         "game-version-ddl-lol-first-patch-2027-forecast"
       ],
-      "lastCheckedAt": "2026-07-14T05:14:40.280Z",
+      "lastCheckedAt": "2026-07-21T05:36:13.352Z",
       "coverage": [
         "League of Legends 2026 patch schedule",
         "2026 history nodes",
@@ -60,7 +60,7 @@
         "Riot Games"
       ],
       "relatedItems": [],
-      "lastCheckedAt": "2026-07-14T05:14:40.280Z"
+      "lastCheckedAt": "2026-07-21T05:36:13.352Z"
     }
   ]
 }
