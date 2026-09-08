@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T07:57:06.898Z",
+  "generatedAt": "2026-09-08T07:23:24.441Z",
   "dataSets": [
     "game-ddl",
     "game-version-ddl",
@@ -27,7 +27,7 @@
       ],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-01T07:57:05.164Z"
+      "checkedAt": "2026-09-08T07:23:20.820Z"
     },
     {
       "topicId": "game-ddl",
@@ -49,7 +49,7 @@
       ],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-01T07:57:05.589Z"
+      "checkedAt": "2026-09-08T07:23:22.662Z"
     },
     {
       "topicId": "game-ddl",
@@ -71,7 +71,7 @@
       ],
       "relatedItemCount": 3,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-01T07:57:04.529Z"
+      "checkedAt": "2026-09-08T07:23:20.484Z"
     },
     {
       "topicId": "game-ddl",
@@ -87,7 +87,7 @@
       "matchedMarkers": [],
       "relatedItemCount": 3,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-01T07:57:04.327Z"
+      "checkedAt": "2026-09-08T07:23:20.354Z"
     },
     {
       "topicId": "game-ddl",
@@ -103,7 +103,7 @@
       "matchedMarkers": [],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-01T07:57:04.415Z"
+      "checkedAt": "2026-09-08T07:23:20.394Z"
     },
     {
       "topicId": "game-ddl",
@@ -124,7 +124,7 @@
       ],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-01T07:57:04.980Z"
+      "checkedAt": "2026-09-08T07:23:21.107Z"
     },
     {
       "topicId": "game-ddl",
@@ -146,7 +146,7 @@
       ],
       "relatedItemCount": 3,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-01T07:57:05.954Z"
+      "checkedAt": "2026-09-08T07:23:23.316Z"
     },
     {
       "topicId": "game-ddl",
@@ -169,7 +169,7 @@
       ],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-01T07:57:06.271Z"
+      "checkedAt": "2026-09-08T07:23:23.454Z"
     },
     {
       "topicId": "game-ddl",
@@ -185,7 +185,7 @@
       "matchedMarkers": [],
       "relatedItemCount": 2,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-01T07:57:05.715Z"
+      "checkedAt": "2026-09-08T07:23:23.181Z"
     },
     {
       "topicId": "game-version-ddl",
@@ -195,7 +195,7 @@
       "adapter": "riot-lol-patch-schedule",
       "ok": true,
       "status": 200,
-      "finalUrl": "https://support.riotgames.com/en-us/league-of-legends/gameplay/patch-schedule-league-of-legends",
+      "finalUrl": "https://support.riotgames.com/en-us/league-of-legends/gameplay/patch-schedule-league-of-legends/",
       "contentType": "text/html; charset=UTF-8",
       "title": "Riot Games Support",
       "matchedMarkers": [
@@ -203,7 +203,7 @@
       ],
       "relatedItemCount": 3,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-01T07:57:06.521Z"
+      "checkedAt": "2026-09-08T07:23:24.104Z"
     },
     {
       "topicId": "game-version-ddl",
@@ -213,7 +213,7 @@
       "adapter": "riot-tft-patch-schedule",
       "ok": true,
       "status": 200,
-      "finalUrl": "https://support.riotgames.com/en-us/tft/events/patch-schedule-teamfight-tactics",
+      "finalUrl": "https://support.riotgames.com/en-us/tft/events/patch-schedule-teamfight-tactics/",
       "contentType": "text/html; charset=UTF-8",
       "title": "Riot Games Support",
       "matchedMarkers": [
@@ -221,7 +221,7 @@
       ],
       "relatedItemCount": 0,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-01T07:57:06.595Z"
+      "checkedAt": "2026-09-08T07:23:24.169Z"
     },
     {
       "topicId": "steamgame-ddl",
@@ -240,7 +240,7 @@
       ],
       "relatedItemCount": 0,
       "generatedItemCount": 50,
-      "checkedAt": "2026-09-01T07:57:06.845Z"
+      "checkedAt": "2026-09-08T07:23:24.381Z"
     },
     {
       "topicId": "steamgame-ddl",
@@ -259,7 +259,7 @@
       ],
       "relatedItemCount": 0,
       "generatedItemCount": 50,
-      "checkedAt": "2026-09-01T07:57:06.842Z"
+      "checkedAt": "2026-09-08T07:23:24.369Z"
     }
   ]
 }
