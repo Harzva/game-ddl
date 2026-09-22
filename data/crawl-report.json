@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T07:58:55.631Z",
+  "generatedAt": "2026-09-22T07:54:46.946Z",
   "dataSets": [
     "game-ddl",
     "game-version-ddl",
@@ -27,7 +27,7 @@
       ],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-15T07:58:51.810Z"
+      "checkedAt": "2026-09-22T07:54:44.365Z"
     },
     {
       "topicId": "game-ddl",
@@ -49,7 +49,7 @@
       ],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-15T07:58:54.114Z"
+      "checkedAt": "2026-09-22T07:54:45.031Z"
     },
     {
       "topicId": "game-ddl",
@@ -71,7 +71,7 @@
       ],
       "relatedItemCount": 3,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-15T07:58:51.139Z"
+      "checkedAt": "2026-09-22T07:54:43.750Z"
     },
     {
       "topicId": "game-ddl",
@@ -87,7 +87,7 @@
       "matchedMarkers": [],
       "relatedItemCount": 3,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-15T07:58:50.868Z"
+      "checkedAt": "2026-09-22T07:54:43.612Z"
     },
     {
       "topicId": "game-ddl",
@@ -103,7 +103,7 @@
       "matchedMarkers": [],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-15T07:58:50.905Z"
+      "checkedAt": "2026-09-22T07:54:43.657Z"
     },
     {
       "topicId": "game-ddl",
@@ -124,7 +124,7 @@
       ],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-15T07:58:51.375Z"
+      "checkedAt": "2026-09-22T07:54:43.746Z"
     },
     {
       "topicId": "game-ddl",
@@ -146,7 +146,7 @@
       ],
       "relatedItemCount": 3,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-15T07:58:54.431Z"
+      "checkedAt": "2026-09-22T07:54:45.208Z"
     },
     {
       "topicId": "game-ddl",
@@ -169,7 +169,7 @@
       ],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-15T07:58:54.974Z"
+      "checkedAt": "2026-09-22T07:54:45.616Z"
     },
     {
       "topicId": "game-ddl",
@@ -185,7 +185,7 @@
       "matchedMarkers": [],
       "relatedItemCount": 2,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-15T07:58:54.243Z"
+      "checkedAt": "2026-09-22T07:54:45.494Z"
     },
     {
       "topicId": "game-version-ddl",
@@ -195,15 +195,20 @@
       "adapter": "riot-lol-patch-schedule",
       "ok": true,
       "status": 200,
-      "finalUrl": "https://support.riotgames.com/en-us/league-of-legends/gameplay/patch-schedule-league-of-legends/",
-      "contentType": "text/html; charset=UTF-8",
-      "title": "Riot Games Support",
+      "finalUrl": "https://support.riotgames.com/en-us/league-of-legends/gameplay/patch-schedule-league-of-legends",
+      "contentType": "text/html",
+      "title": "Patch Schedule - League of Legends - League of Legends Support",
       "matchedMarkers": [
+        "League of Legends",
+        "Patch Schedule",
+        "26.11",
+        "26.01",
+        "26.24",
         "Riot Games"
       ],
       "relatedItemCount": 3,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-15T07:58:55.209Z"
+      "checkedAt": "2026-09-22T07:54:46.595Z"
     },
     {
       "topicId": "game-version-ddl",
@@ -213,15 +218,17 @@
       "adapter": "riot-tft-patch-schedule",
       "ok": true,
       "status": 200,
-      "finalUrl": "https://support.riotgames.com/en-us/tft/events/patch-schedule-teamfight-tactics/",
-      "contentType": "text/html; charset=UTF-8",
-      "title": "Riot Games Support",
+      "finalUrl": "https://support.riotgames.com/en-us/tft/events/patch-schedule-teamfight-tactics",
+      "contentType": "text/html",
+      "title": "Patch Schedule - Teamfight Tactics - Teamfight Tactics Support",
       "matchedMarkers": [
+        "Teamfight Tactics",
+        "Patch Schedule",
         "Riot Games"
       ],
       "relatedItemCount": 0,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-15T07:58:55.367Z"
+      "checkedAt": "2026-09-22T07:54:46.423Z"
     },
     {
       "topicId": "steamgame-ddl",
@@ -240,7 +247,7 @@
       ],
       "relatedItemCount": 0,
       "generatedItemCount": 50,
-      "checkedAt": "2026-09-15T07:58:55.558Z"
+      "checkedAt": "2026-09-22T07:54:46.864Z"
     },
     {
       "topicId": "steamgame-ddl",
@@ -259,7 +266,7 @@
       ],
       "relatedItemCount": 0,
       "generatedItemCount": 50,
-      "checkedAt": "2026-09-15T07:58:55.573Z"
+      "checkedAt": "2026-09-22T07:54:46.890Z"
     }
   ]
 }
