@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T08:57:00.663Z",
+  "generatedAt": "2026-10-06T09:18:22.085Z",
   "dataSets": [
     "game-ddl",
     "game-version-ddl",
@@ -27,7 +27,7 @@
       ],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-29T08:56:55.942Z"
+      "checkedAt": "2026-10-06T09:18:19.816Z"
     },
     {
       "topicId": "game-ddl",
@@ -39,17 +39,18 @@
       "status": 200,
       "finalUrl": "https://pro.eslgaming.com/tour/cs/cologne/",
       "contentType": "text/html; charset=UTF-8",
-      "title": "IEM Cologne 2026 - Congratulations Team Falcons - ESL Pro Tour",
+      "title": "IEM Cologne 2027 - ESL Pro Tour",
       "matchedMarkers": [
         "ESL",
         "IEM",
         "Cologne",
+        "IEM Cologne Major 2026",
         "CS2",
         "Major"
       ],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-29T08:56:58.263Z"
+      "checkedAt": "2026-10-06T09:18:20.365Z"
     },
     {
       "topicId": "game-ddl",
@@ -71,7 +72,7 @@
       ],
       "relatedItemCount": 3,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-29T08:56:55.480Z"
+      "checkedAt": "2026-10-06T09:18:19.716Z"
     },
     {
       "topicId": "game-ddl",
@@ -87,7 +88,7 @@
       "matchedMarkers": [],
       "relatedItemCount": 3,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-29T08:56:55.264Z"
+      "checkedAt": "2026-10-06T09:18:19.428Z"
     },
     {
       "topicId": "game-ddl",
@@ -103,7 +104,7 @@
       "matchedMarkers": [],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-29T08:56:55.344Z"
+      "checkedAt": "2026-10-06T09:18:19.619Z"
     },
     {
       "topicId": "game-ddl",
@@ -124,7 +125,7 @@
       ],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-29T08:56:55.821Z"
+      "checkedAt": "2026-10-06T09:18:20.023Z"
     },
     {
       "topicId": "game-ddl",
@@ -146,7 +147,7 @@
       ],
       "relatedItemCount": 3,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-29T08:56:59.324Z"
+      "checkedAt": "2026-10-06T09:18:20.665Z"
     },
     {
       "topicId": "game-ddl",
@@ -169,7 +170,7 @@
       ],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-29T08:56:59.009Z"
+      "checkedAt": "2026-10-06T09:18:20.782Z"
     },
     {
       "topicId": "game-ddl",
@@ -185,7 +186,7 @@
       "matchedMarkers": [],
       "relatedItemCount": 2,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-29T08:56:58.607Z"
+      "checkedAt": "2026-10-06T09:18:20.767Z"
     },
     {
       "topicId": "game-version-ddl",
@@ -208,7 +209,7 @@
       ],
       "relatedItemCount": 3,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-29T08:57:00.007Z"
+      "checkedAt": "2026-10-06T09:18:21.799Z"
     },
     {
       "topicId": "game-version-ddl",
@@ -228,7 +229,7 @@
       ],
       "relatedItemCount": 0,
       "generatedItemCount": 0,
-      "checkedAt": "2026-09-29T08:57:00.013Z"
+      "checkedAt": "2026-10-06T09:18:21.399Z"
     },
     {
       "topicId": "steamgame-ddl",
@@ -247,7 +248,7 @@
       ],
       "relatedItemCount": 0,
       "generatedItemCount": 50,
-      "checkedAt": "2026-09-29T08:57:00.202Z"
+      "checkedAt": "2026-10-06T09:18:21.993Z"
     },
     {
       "topicId": "steamgame-ddl",
@@ -266,7 +267,7 @@
       ],
       "relatedItemCount": 0,
       "generatedItemCount": 50,
-      "checkedAt": "2026-09-29T08:57:00.164Z"
+      "checkedAt": "2026-10-06T09:18:22.030Z"
     }
   ]
 }
