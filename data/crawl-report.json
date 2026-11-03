@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T08:17:33.716Z",
+  "generatedAt": "2026-11-03T09:55:57.998Z",
   "dataSets": [
     "game-ddl",
     "game-version-ddl",
@@ -27,7 +27,7 @@
       ],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-10-27T08:17:30.783Z"
+      "checkedAt": "2026-11-03T09:55:55.501Z"
     },
     {
       "topicId": "game-ddl",
@@ -50,7 +50,7 @@
       ],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-10-27T08:17:31.811Z"
+      "checkedAt": "2026-11-03T09:55:56.457Z"
     },
     {
       "topicId": "game-ddl",
@@ -72,7 +72,7 @@
       ],
       "relatedItemCount": 3,
       "generatedItemCount": 0,
-      "checkedAt": "2026-10-27T08:17:30.861Z"
+      "checkedAt": "2026-11-03T09:55:55.655Z"
     },
     {
       "topicId": "game-ddl",
@@ -88,7 +88,7 @@
       "matchedMarkers": [],
       "relatedItemCount": 3,
       "generatedItemCount": 0,
-      "checkedAt": "2026-10-27T08:17:30.784Z"
+      "checkedAt": "2026-11-03T09:55:55.586Z"
     },
     {
       "topicId": "game-ddl",
@@ -104,7 +104,7 @@
       "matchedMarkers": [],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-10-27T08:17:30.983Z"
+      "checkedAt": "2026-11-03T09:55:55.674Z"
     },
     {
       "topicId": "game-ddl",
@@ -125,7 +125,7 @@
       ],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-10-27T08:17:31.183Z"
+      "checkedAt": "2026-11-03T09:55:56.017Z"
     },
     {
       "topicId": "game-ddl",
@@ -147,7 +147,7 @@
       ],
       "relatedItemCount": 3,
       "generatedItemCount": 0,
-      "checkedAt": "2026-10-27T08:17:32.050Z"
+      "checkedAt": "2026-11-03T09:55:56.633Z"
     },
     {
       "topicId": "game-ddl",
@@ -170,7 +170,7 @@
       ],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-10-27T08:17:32.332Z"
+      "checkedAt": "2026-11-03T09:55:56.905Z"
     },
     {
       "topicId": "game-ddl",
@@ -186,7 +186,7 @@
       "matchedMarkers": [],
       "relatedItemCount": 2,
       "generatedItemCount": 0,
-      "checkedAt": "2026-10-27T08:17:32.312Z"
+      "checkedAt": "2026-11-03T09:55:56.746Z"
     },
     {
       "topicId": "game-version-ddl",
@@ -209,7 +209,7 @@
       ],
       "relatedItemCount": 3,
       "generatedItemCount": 0,
-      "checkedAt": "2026-10-27T08:17:33.447Z"
+      "checkedAt": "2026-11-03T09:55:57.627Z"
     },
     {
       "topicId": "game-version-ddl",
@@ -229,7 +229,7 @@
       ],
       "relatedItemCount": 0,
       "generatedItemCount": 0,
-      "checkedAt": "2026-10-27T08:17:33.012Z"
+      "checkedAt": "2026-11-03T09:55:57.697Z"
     },
     {
       "topicId": "steamgame-ddl",
@@ -244,11 +244,12 @@
       "title": "",
       "matchedMarkers": [
         "Steam",
-        "app"
+        "app",
+        "Coming Soon"
       ],
       "relatedItemCount": 0,
       "generatedItemCount": 50,
-      "checkedAt": "2026-10-27T08:17:33.663Z"
+      "checkedAt": "2026-11-03T09:55:57.942Z"
     },
     {
       "topicId": "steamgame-ddl",
@@ -267,7 +268,7 @@
       ],
       "relatedItemCount": 0,
       "generatedItemCount": 50,
-      "checkedAt": "2026-10-27T08:17:33.670Z"
+      "checkedAt": "2026-11-03T09:55:57.939Z"
     }
   ]
 }
