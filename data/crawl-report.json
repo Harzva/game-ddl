@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T09:55:57.998Z",
+  "generatedAt": "2026-11-10T10:16:29.557Z",
   "dataSets": [
     "game-ddl",
     "game-version-ddl",
@@ -27,7 +27,7 @@
       ],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-11-03T09:55:55.501Z"
+      "checkedAt": "2026-11-10T10:16:25.133Z"
     },
     {
       "topicId": "game-ddl",
@@ -50,7 +50,7 @@
       ],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-11-03T09:55:56.457Z"
+      "checkedAt": "2026-11-10T10:16:26.163Z"
     },
     {
       "topicId": "game-ddl",
@@ -72,7 +72,7 @@
       ],
       "relatedItemCount": 3,
       "generatedItemCount": 0,
-      "checkedAt": "2026-11-03T09:55:55.655Z"
+      "checkedAt": "2026-11-10T10:16:25.164Z"
     },
     {
       "topicId": "game-ddl",
@@ -88,7 +88,7 @@
       "matchedMarkers": [],
       "relatedItemCount": 3,
       "generatedItemCount": 0,
-      "checkedAt": "2026-11-03T09:55:55.586Z"
+      "checkedAt": "2026-11-10T10:16:25.001Z"
     },
     {
       "topicId": "game-ddl",
@@ -104,7 +104,7 @@
       "matchedMarkers": [],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-11-03T09:55:55.674Z"
+      "checkedAt": "2026-11-10T10:16:25.045Z"
     },
     {
       "topicId": "game-ddl",
@@ -125,7 +125,7 @@
       ],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-11-03T09:55:56.017Z"
+      "checkedAt": "2026-11-10T10:16:25.571Z"
     },
     {
       "topicId": "game-ddl",
@@ -142,12 +142,13 @@
         "LoL Esports",
         "MSI",
         "Worlds",
+        "Event start",
         "Riot Games",
         "Grand Final"
       ],
       "relatedItemCount": 3,
       "generatedItemCount": 0,
-      "checkedAt": "2026-11-03T09:55:56.633Z"
+      "checkedAt": "2026-11-10T10:16:26.472Z"
     },
     {
       "topicId": "game-ddl",
@@ -157,9 +158,9 @@
       "adapter": "event-listing",
       "ok": true,
       "status": 200,
-      "finalUrl": "https://www.thespike.gg/events/valorant-champions-tour-2026-masters-london-2026/4148",
+      "finalUrl": "https://www.thespike.gg/events/vct-2026-masters-london-2026/4148",
       "contentType": "text/html; charset=utf-8",
-      "title": "VALORANT Champions Tour 2026 - Masters London 2026 | VALORANT Esports Event | Overview | THESPIKE.GG",
+      "title": "VCT 2026 - Masters London 2026 | THESPIKE.GG",
       "matchedMarkers": [
         "Event",
         "2026",
@@ -170,7 +171,7 @@
       ],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-11-03T09:55:56.905Z"
+      "checkedAt": "2026-11-10T10:16:27.426Z"
     },
     {
       "topicId": "game-ddl",
@@ -186,7 +187,7 @@
       "matchedMarkers": [],
       "relatedItemCount": 2,
       "generatedItemCount": 0,
-      "checkedAt": "2026-11-03T09:55:56.746Z"
+      "checkedAt": "2026-11-10T10:16:26.419Z"
     },
     {
       "topicId": "game-version-ddl",
@@ -209,7 +210,7 @@
       ],
       "relatedItemCount": 3,
       "generatedItemCount": 0,
-      "checkedAt": "2026-11-03T09:55:57.627Z"
+      "checkedAt": "2026-11-10T10:16:28.648Z"
     },
     {
       "topicId": "game-version-ddl",
@@ -229,7 +230,7 @@
       ],
       "relatedItemCount": 0,
       "generatedItemCount": 0,
-      "checkedAt": "2026-11-03T09:55:57.697Z"
+      "checkedAt": "2026-11-10T10:16:29.176Z"
     },
     {
       "topicId": "steamgame-ddl",
@@ -244,12 +245,11 @@
       "title": "",
       "matchedMarkers": [
         "Steam",
-        "app",
-        "Coming Soon"
+        "app"
       ],
       "relatedItemCount": 0,
       "generatedItemCount": 50,
-      "checkedAt": "2026-11-03T09:55:57.942Z"
+      "checkedAt": "2026-11-10T10:16:29.505Z"
     },
     {
       "topicId": "steamgame-ddl",
@@ -268,7 +268,7 @@
       ],
       "relatedItemCount": 0,
       "generatedItemCount": 50,
-      "checkedAt": "2026-11-03T09:55:57.939Z"
+      "checkedAt": "2026-11-10T10:16:29.442Z"
     }
   ]
 }
