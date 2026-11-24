@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T11:00:57.995Z",
+  "generatedAt": "2026-11-24T12:51:17.717Z",
   "dataSets": [
     "game-ddl",
     "game-version-ddl",
@@ -27,7 +27,7 @@
       ],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-11-17T11:00:51.028Z"
+      "checkedAt": "2026-11-24T12:51:11.423Z"
     },
     {
       "topicId": "game-ddl",
@@ -35,10 +35,22 @@
       "name": "ESL Pro Tour",
       "url": "https://pro.eslgaming.com/tour/csgo/cologne",
       "adapter": "esl-cs2",
-      "ok": false,
-      "status": "error",
-      "error": "This operation was aborted",
-      "checkedAt": "2026-11-17T11:00:55.238Z"
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://pro.eslgaming.com/tour/cs/cologne/",
+      "contentType": "text/html; charset=UTF-8",
+      "title": "IEM Cologne 2027 - ESL Pro Tour",
+      "matchedMarkers": [
+        "ESL",
+        "IEM",
+        "Cologne",
+        "IEM Cologne Major 2026",
+        "CS2",
+        "Major"
+      ],
+      "relatedItemCount": 1,
+      "generatedItemCount": 0,
+      "checkedAt": "2026-11-24T12:51:14.554Z"
     },
     {
       "topicId": "game-ddl",
@@ -60,7 +72,7 @@
       ],
       "relatedItemCount": 3,
       "generatedItemCount": 0,
-      "checkedAt": "2026-11-17T11:00:51.304Z"
+      "checkedAt": "2026-11-24T12:51:11.426Z"
     },
     {
       "topicId": "game-ddl",
@@ -76,7 +88,7 @@
       "matchedMarkers": [],
       "relatedItemCount": 3,
       "generatedItemCount": 0,
-      "checkedAt": "2026-11-17T11:00:50.944Z"
+      "checkedAt": "2026-11-24T12:51:11.217Z"
     },
     {
       "topicId": "game-ddl",
@@ -92,7 +104,7 @@
       "matchedMarkers": [],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-11-17T11:00:51.030Z"
+      "checkedAt": "2026-11-24T12:51:11.235Z"
     },
     {
       "topicId": "game-ddl",
@@ -113,7 +125,7 @@
       ],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-11-17T11:00:51.517Z"
+      "checkedAt": "2026-11-24T12:51:11.728Z"
     },
     {
       "topicId": "game-ddl",
@@ -136,7 +148,7 @@
       ],
       "relatedItemCount": 3,
       "generatedItemCount": 0,
-      "checkedAt": "2026-11-17T11:00:55.694Z"
+      "checkedAt": "2026-11-24T12:51:14.986Z"
     },
     {
       "topicId": "game-ddl",
@@ -159,7 +171,7 @@
       ],
       "relatedItemCount": 1,
       "generatedItemCount": 0,
-      "checkedAt": "2026-11-17T11:00:56.732Z"
+      "checkedAt": "2026-11-24T12:51:16.303Z"
     },
     {
       "topicId": "game-ddl",
@@ -175,7 +187,7 @@
       "matchedMarkers": [],
       "relatedItemCount": 2,
       "generatedItemCount": 0,
-      "checkedAt": "2026-11-17T11:00:55.500Z"
+      "checkedAt": "2026-11-24T12:51:14.879Z"
     },
     {
       "topicId": "game-version-ddl",
@@ -198,7 +210,7 @@
       ],
       "relatedItemCount": 3,
       "generatedItemCount": 0,
-      "checkedAt": "2026-11-17T11:00:57.688Z"
+      "checkedAt": "2026-11-24T12:51:16.897Z"
     },
     {
       "topicId": "game-version-ddl",
@@ -218,7 +230,7 @@
       ],
       "relatedItemCount": 0,
       "generatedItemCount": 0,
-      "checkedAt": "2026-11-17T11:00:57.562Z"
+      "checkedAt": "2026-11-24T12:51:17.108Z"
     },
     {
       "topicId": "steamgame-ddl",
@@ -233,12 +245,11 @@
       "title": "",
       "matchedMarkers": [
         "Steam",
-        "app",
-        "Coming Soon"
+        "app"
       ],
       "relatedItemCount": 0,
       "generatedItemCount": 50,
-      "checkedAt": "2026-11-17T11:00:57.913Z"
+      "checkedAt": "2026-11-24T12:51:17.248Z"
     },
     {
       "topicId": "steamgame-ddl",
@@ -253,12 +264,11 @@
       "title": "",
       "matchedMarkers": [
         "Steam",
-        "app",
-        "Coming Soon"
+        "app"
       ],
       "relatedItemCount": 0,
       "generatedItemCount": 50,
-      "checkedAt": "2026-11-17T11:00:57.928Z"
+      "checkedAt": "2026-11-24T12:51:17.286Z"
     }
   ]
 }
